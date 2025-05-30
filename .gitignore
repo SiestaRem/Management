@@ -1,0 +1,7 @@
+/.venv/
+/blueprints/
+/instance/
+/static/
+/templates/index2.html
+/templates/text.html
+/.idea
